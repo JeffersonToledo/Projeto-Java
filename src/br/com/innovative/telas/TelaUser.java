@@ -137,6 +137,7 @@ public class TelaUser extends javax.swing.JFrame {
                     txtAlunoPlano.setText(null);
                     txtAlunoSenha.setText(null);
                     btAlunoAdicionar.setEnabled(true);
+                    txtAlunoCPF.setText(null);
                 }
             }
         }
